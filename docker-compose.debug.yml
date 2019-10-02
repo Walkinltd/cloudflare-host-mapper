@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  cloudflare-host-mapper:
+    image: cloudflare-host-mapper
+    build:
+      context: .
+      dockerfile: Dockerfile
