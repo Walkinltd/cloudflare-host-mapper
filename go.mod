@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/cloudflare/cloudflare-go v0.10.1
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v0.0.5
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45 // indirect
 	k8s.io/apimachinery v0.0.0-20190612205821-1799e75a0719
